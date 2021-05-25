@@ -1,7 +1,7 @@
 # Vector-Autoregressive-in-R
 
 
-This script replicates the example in Kilian and Lutkepohl (2017), Structural Vector Autoregressive
+The script replicates the example in Kilian and Lutkepohl (2017), Structural Vector Autoregressive
 Analysis, Cambridge University Press, Chapter 9 (page 239-240).
 
 The exercise focuses on the identification of an oil price shock and its impact on inflation and 
@@ -14,5 +14,4 @@ These R codes allow to compute impulse response functions (IRFs), Forecast Error
 Decomposition (FEVD) and Historical Decomposition (HD).
 
 Author: Alessia Paccagnini (UCD) and Fabio Parla (CBI)
-contact: fabioparla123@gmail.com
-Dublin, May 2021
+
