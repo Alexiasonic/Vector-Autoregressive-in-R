@@ -15,3 +15,5 @@ Decomposition (FEVD) and Historical Decomposition (HD).
 
 Author: Alessia Paccagnini (University College Dublin) and Fabio Parla (Central Bank of Ireland)
 
+The slides have been prepared for the V International Seminar on Statistics with R (9 - 10 June, 2021)
+
