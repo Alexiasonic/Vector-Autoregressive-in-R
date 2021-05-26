@@ -13,5 +13,5 @@ decomposition of the VAR's reduced form residuals covariance matrix).
 These R codes allow to compute impulse response functions (IRFs), Forecast Error Variance 
 Decomposition (FEVD) and Historical Decomposition (HD).
 
-Author: Alessia Paccagnini (UCD) and Fabio Parla (CBI)
+Author: Alessia Paccagnini (University College Dublin) and Fabio Parla (Central Bank of Ireland)
 
